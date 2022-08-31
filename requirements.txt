@@ -1,0 +1,6 @@
+trax
+tqdm
+numpy
+pandas
+spacy
+kaggle
